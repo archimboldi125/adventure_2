@@ -1,0 +1,61 @@
+html {
+  background-color: #27475B;
+}
+
+body {
+  font-size: 100%;
+  
+
+}
+
+.container {
+  background: url(../images/cartoon_underwater_world_vectors_2.png) no-repeat center;
+  background-size: 80%;
+  
+  }
+
+
+.container2 {
+  background:url(../images/cartoon_underwater_world_vectors.png) no-repeat center;
+  background-size: 80%;
+  }
+
+
+
+.indexa { 
+     display:inline-block;
+     margin-top: 40%;
+     margin-left: 20%;
+     margin-bottom: 10%;
+     background:deeppink;
+     border: dashed;
+     text-decoration: none;
+     color: white;
+     padding: 20px 32px;
+     cursor: pointer;
+     font-family: 'IM Fell DW Pica SC', serif;
+     font-size: 2rem;
+}
+
+.seashell {
+    cursor: url(../images/seashell-icon-vector-clipart.png), auto;
+}
+
+
+.background-a {
+    animation: pulse 4s infinite;
+   
+}
+
+@keyframes pulse {
+  
+  0% {background-color: deeppink}
+  100% {
+    background-color: coral;
+  }
+ 
+}
+
+.background-a-size {animation: size }
+
+/* Game intro page*/
