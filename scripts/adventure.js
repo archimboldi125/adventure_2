@@ -15,8 +15,8 @@ var userY = 0
 
 //Hide the treasure, also with x y values
 
-var treasureX = Math.floor(Math.random() * 2);
-var treasureY = Math.floor(Math.random() * 2);
+var treasureX = Math.floor(Math.random() * 3);
+var treasureY = Math.floor(Math.random() * 3);
 
 //Applause sound
 
